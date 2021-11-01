@@ -1,2 +1,3 @@
-# Pricing Cards
- Pricing card section in Css3
+<p align="center">
+ <img src="sc.png">
+</p>
